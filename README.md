@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+*Titulo 1
+**Titulo 2
+***Titulo 3
+****Titulo 4
+****Titulo 5
+*****Titulo 6
+
+
 *italico* ou _italico_
 
 **Negrito** ou __negrito_
@@ -18,8 +26,19 @@ __negrito e italico__
 
 
 
+system.out.printin();
 
+---system.out.printin();system.out.printin();system.out.printin();system.out.printin();---
 
+> texto da citações
+|----------------------|----------------------|
+|cabeçalho 1 | cabeçalho 2 |
+|----------------------|----------------------|
+|texto1                |texto2                |
+|texto 3               |texto4                |
+
+{x} Tarefa1 
+{} Tarefa2
 
 
 
