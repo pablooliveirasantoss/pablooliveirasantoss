@@ -3,7 +3,8 @@
 
 
 
-![gif codando com sono](https://tenor.com/view/absol-dsl-capcut-gif-6545129191945449497)
+![gif codando com sono](<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/097eb46d-c89d-4d5f-88e6-5bbe86c59d3e" />
+)
 
 
 *italico* ou _italico_
