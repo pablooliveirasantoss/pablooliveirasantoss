@@ -3,7 +3,7 @@
 
 
 
-![gif codando com sono](https://tenor.com/view/coraline-dad-gif-typing-gif-18806780)
+![gif codando com sono](https://tenor.com/view/absol-dsl-capcut-gif-6545129191945449497)
 
 
 *italico* ou _italico_
