@@ -5,39 +5,20 @@
 
 ![gif codando com sono](https://media1.tenor.com/m/PFmTN28CoekAAAAC/hacker-typing.gif)
 
-🚶hi, my Name Pablo Olivieira
+🚶hi, my Name Pablo Olivieira! 
 
-*italico* ou _italico_
+👀 Atualmente estudante no penultimo semestre do curso de Ads(analise e desenvolvimento de sistemas) e estudando javascript e SQL.
 
-**Negrito** ou __negrito_
-
-__negrito e italico__
-
-- lista 1
-- lista 2
- - Sublista
-
-1.Lista 1 
-2.Lista 2
- 1.sublista
-
- [texto da imagem](https://preply.com/pt/home)
+📪 [Acesse o meu Linkedin](https://www.linkedin.com/in/pablo-de-oliveira-dos-santos-619707257/)
 
 
 
-system.out.printin();
 
----system.out.printin();system.out.printin();system.out.printin();system.out.printin();---
 
-> texto da citações
-|----------------------|----------------------|
-|cabeçalho 1 | cabeçalho 2 |
-|----------------------|----------------------|
-|texto1                |texto2                |
-|texto 3               |texto4                |
+ 
 
-{x} Tarefa1 
-{} Tarefa2
+
+
 
 
 
