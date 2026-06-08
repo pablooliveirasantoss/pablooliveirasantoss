@@ -21,6 +21,15 @@
 
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width= "100px"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width= "100px">
 
+-------
+
+# Cursos e Certificados
+| Curso | Plataforma | Status | Certificado |
+|---------|---------|---------|---------|
+| JavaScript Básico | Udemy   | Em andamento | ⏳ |
+| SQL basico | Udemy| Em andamento | ⏳ |
+| Git e GitHub | Dio| Em andamento | ⏳ |
+| Lógica de Programação | Dio | Concluído | [📄 Ver Certificado](https://hermes.dio.me/certificates/0HJEHXFR.pdf) |
           
 
 
