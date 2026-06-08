@@ -9,7 +9,7 @@
 
 👀 Atualmente estudante no penultimo semestre do curso de Ads(analise e desenvolvimento de sistemas) e estudando javascript e SQL.
 
-📪 [Acesse o meu Linkedin](https://www.linkedin.com/in/pablo-de-oliveira-dos-santos-619707257/)
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg/>" width= "100px">📪 [Acesse o meu Linkedin](https://www.linkedin.com/in/pablo-de-oliveira-dos-santos-619707257/)
 
 ------
 
@@ -24,7 +24,7 @@
 
 
 
-
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg/>
 
 
 
