@@ -23,7 +23,9 @@
 
 -------
 
-# Cursos e Certificados
+### Cursos e Certificados
+
+
 | Curso | Plataforma | Status | Certificado |
 |---------|---------|---------|---------|
 | JavaScript Básico | Udemy   | Em andamento | ⏳ |
