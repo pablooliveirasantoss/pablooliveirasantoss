@@ -38,11 +38,11 @@
 
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablooliveirasantos&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablooliveirasantos&show_icons=true)
 
 
 
