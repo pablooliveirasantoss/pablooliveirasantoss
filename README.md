@@ -38,11 +38,13 @@
 
 
 
+
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablooliveirasantos&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablooliveirasantos&show_icons=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablooliveirasantos&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablooliveirasantos&layout=compact&theme=tokyonight"/>
+</div>
 
 
 
