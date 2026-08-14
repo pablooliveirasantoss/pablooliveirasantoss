@@ -1,4 +1,4 @@
-
+9
 ## BEM-VINDOS A MINHA SEGUNDA CASA!
 
 
@@ -33,7 +33,7 @@
 | JavaScript Básico | Udemy   | Concluído | [📄 Ver Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-41339761-0048-4a91-8513-14ce752f2601.pdf) |
 | SQL basico | Udemy| Em andamento | ⏳ |
 | Git e GitHub | Udemy| Em andamento | ⏳ |
-| Lógica de Programação | Dio | Concluído | [📄 Ver Certificado](https://hermes.dio.me/certificates/0HJEHXFR.pdf) |
+| Lógica de Programação | Dio | Concluído | [📄 Ver Certificado](https://hermes.dio.me/certificates/3DZETEY6.pdf) |
           
 
 
