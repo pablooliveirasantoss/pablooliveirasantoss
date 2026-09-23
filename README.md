@@ -31,7 +31,7 @@
 | Curso | Plataforma | Status | Certificado |
 |---------|---------|---------|---------|
 | JavaScript Básico | Udemy   | Concluído | [📄 Ver Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-41339761-0048-4a91-8513-14ce752f2601.pdf) |
-| SQL basico | Udemy| Em andamento | ⏳ |
+| SQL basico | Udemy| Concluído | [📄 Ver Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-82eac547-8b0b-4c01-b50d-a9ed6d44026a.pdf) |
 | Git e GitHub | Udemy| Em andamento | ⏳ |
 | Lógica de Programação | Dio | Concluído | [📄 Ver Certificado](https://hermes.dio.me/certificates/3DZETEY6.pdf) |
           
